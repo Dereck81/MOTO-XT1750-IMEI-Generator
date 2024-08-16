@@ -21,8 +21,3 @@ This Python script generates IMEI numbers in both decimal and hexadecimal format
 ### Prerequisites
 
 - Python 3.x
-
-### Running the Script
-
-```bash
-python imei_generator.py
